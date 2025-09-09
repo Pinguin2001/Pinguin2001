@@ -17,4 +17,4 @@ I also enjoy travelling and exploring different countries and learning languages
   - [Telegram](https://t.me/pinguin2001)
   - [E-Mail](mailto:julian@julianhasreiter.eu)
 
-- ⚡ Fun fact : I first got into tech at 3 yrs old on a Windows XP PC, which I later downgraded to Windows 95 for fun a few years later. The PC has a Pentium III, with 256MB of ram and a ~10 GB HDD.
+- ⚡ Fun fact : I first got into tech at 3 yrs old on a Windows XP PC, which I later downgraded to Windows 98 SE for fun a few years later. The PC has a Pentium III, with 128MB of ram and a ~10 GB HDD.
